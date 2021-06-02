@@ -1,4 +1,4 @@
-FROM postgres:11.10
+FROM postgres:12
 ENV POSTGRES_PASSWORD=aact_pwd
 ENV POSTGRES_USER=aact_user
 ENV POSTGRES_DB=aact 
